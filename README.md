@@ -8,7 +8,7 @@ Contains reusable functions used for drupal development.
 #Usage
 
 To call the service:
-`$helper = \Drupal::service('custom_services.helper_functions');`
+`$helper = \Drupal::service('dhs.helper_functions');`
 
 To call a specific function:
 `$helper->[some function]();`

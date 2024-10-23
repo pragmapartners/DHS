@@ -1,3 +1,0 @@
-services:
-  pragma_services.helper_functions:
-    class: 'Drupal\pragma_services\Service\HelperFunctions'

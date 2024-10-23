@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\pragma_services\Service;
+namespace Drupal\dhs\Service;
 
 class HelperFunctions
 {

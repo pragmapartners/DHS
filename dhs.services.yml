@@ -1,0 +1,3 @@
+services:
+  dhs.helper_functions:
+    class: 'Drupal\dhs\Service\HelperFunctions'

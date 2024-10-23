@@ -1,5 +1,0 @@
-name: 'Pragma custom services'
-type: module
-description: 'Provides reusable helper functions as a service.'
-core_version_requirement: ^11
-package: Pragma
