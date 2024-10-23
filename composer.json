@@ -1,0 +1,16 @@
+{
+  "name": "pragmapartners/dsh",
+  "description": "a collection of drupal services",
+  "type": "drupal-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex M",
+      "email": "alex.monaghan@pragma.com.au"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/core": "^10.3 || ^11.0"
+  }
+}

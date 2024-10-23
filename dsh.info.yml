@@ -1,0 +1,5 @@
+name: Drupal helper services
+type: module
+description: 'Collection of reusable drupal functions contained within a service'
+package: Pragma
+core_version_requirement: ^10 || ^11.0
